@@ -2,6 +2,11 @@
 
 A Windows Forms application built with VB.NET that allows you to view and analyze MIDI files with an intuitive interface.
 
+Before using this application, please read the following documentation to understand its features, usage, and technical details.
+
+## WARNING
+This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.
+
 ## Features
 
 - **Drag and Drop Support**: Simply drag a MIDI file (`.mid` or `.midi`) into the application window to load it
